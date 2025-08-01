@@ -5,6 +5,7 @@ This project focuses on building a machine learning model to classify Iris flowe
 
 <br>
 📌 Objectives
+
 Analyze the relationship between flower features and species
 
 Perform data cleaning and exploratory data analysis (EDA)
@@ -17,6 +18,7 @@ Visualize results for better understanding
 
 <br>
 📊 Dataset Info
+
 Source: Kaggle - Iris Flower Dataset
 
 Samples: 150
@@ -37,6 +39,7 @@ Missing Values: None
 
 <br>
 🛠️ Tools & Libraries
+
 Python
 
 Jupyter Notebook
@@ -49,6 +52,7 @@ Scikit-learn
 
 <br>
 🔍 Exploratory Data Analysis
+
 Countplot of species distribution
 
 Pairplot to visualize relationships
@@ -57,7 +61,9 @@ Heatmap to explore feature correlations
 
 <br>
 🧪 Machine Learning Models
+
 ✅ 1. Random Forest Classifier
+
 Trained on 80% of data
 
 Achieved 100% accuracy on test data
@@ -65,6 +71,7 @@ Achieved 100% accuracy on test data
 Visualized confusion matrix and feature importances
 
 ✅ 2. Logistic Regression
+
 Also performed with 100% accuracy
 
 Used for model comparison
